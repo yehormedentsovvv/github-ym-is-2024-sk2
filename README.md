@@ -10,3 +10,5 @@ Datum a čas změny : 03-10-2024 13:02
 ## Změna provedena přimo na GitHubu
 Datum a čas změny : 03-10-2024 13:14
 Yehor Medentsov
+
+Zmena jmena
