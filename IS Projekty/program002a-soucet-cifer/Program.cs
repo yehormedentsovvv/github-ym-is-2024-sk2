@@ -26,6 +26,7 @@ string again = "a";
             Console.WriteLine("==============================");
 
             int suma = 0;
+            int multi = 1;
             int numberBackup = number;
             int digit;
 
@@ -40,11 +41,15 @@ string again = "a";
                number = (number - digit) / 10;
                Console.WriteLine("Digit = {0}", digit);
                suma = suma + digit;
+               multi = multi * digit;
             }
                Console.WriteLine("Digit = {0}", number);
 
             suma = suma + number;
+            multi = multi * number;
             Console.WriteLine("\n\nSoucet cifer cisla {0} je {1}", numberBackup, suma);
+            Console.WriteLine("\n\nSoucin cifer cisla {0} je {1}\n\n\n", numberBackup, multi);
+
 
             // Opakování programu
             
