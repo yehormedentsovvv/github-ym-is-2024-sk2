@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/bin/Debug/net7.0/program003a-obdelnik
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/bin/Debug/net7.0/program003a-obdelnik.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/bin/Debug/net7.0/program003a-obdelnik.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/bin/Debug/net7.0/program003a-obdelnik.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/bin/Debug/net7.0/program003a-obdelnik.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/refint/program003a-obdelnik.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/program003a-obdelnik.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program003a-obdelnik/obj/Debug/net7.0/ref/program003a-obdelnik.dll
