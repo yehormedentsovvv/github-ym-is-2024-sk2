@@ -5,7 +5,7 @@
             Console.WriteLine("******************************");
             Console.WriteLine("******* Trojuhelnik *************");
             Console.WriteLine("******************************");
-            Console.WriteLine("******** Yehor Medentsov *********");
+            Console.WriteLine("******** Yehor Medentsov 23.10.2024*********");
             Console.WriteLine("******************************\n\n");
             Console.WriteLine();
 
