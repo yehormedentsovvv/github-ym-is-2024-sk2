@@ -44,8 +44,34 @@
 
             for(int i = 0; i < n; i++)
             {
-                myArray[i] = randomNumber.Next(dm, hm + 1);
+                int check = 0;
+                int kladna = 0;
+                int zaporna = 0;
+                int nulova = 0;
+                check = randomNumber.Next(dm, hm + 1);
+                if(check>0)
+                {
+                    myArray[i] = check;
+                    kladna++;
+
+                }else if(check < 0)
+                {
+                    myArray[i] = check;
+                    zaporna++;
+                }else if(check == 0)
+                {
+                    myArray[i] = check;
+                    nulovy++;
+                }
+        
                 Console.WriteLine("{0}; ", myArray[i]);
+                Console.WriteLine("zapornych -  ", zaporna);
+                Console.WriteLine("kladnych -  ", kladna);
+                Console.WriteLine("nulovych -  ", nulova);
+
+
+
+
 
             }
             
