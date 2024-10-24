@@ -4,7 +4,7 @@
             Console.WriteLine("***********************************************");
             Console.WriteLine("******* Generátor pseudonáhodných čísel *******");
             Console.WriteLine("***********************************************");
-            Console.WriteLine("**************** Yehor Medentsov ******************");
+            Console.WriteLine("**************** Yehor Medentsovv ******************");
             Console.WriteLine("***********************************************\n\n");
             Console.WriteLine();
 
