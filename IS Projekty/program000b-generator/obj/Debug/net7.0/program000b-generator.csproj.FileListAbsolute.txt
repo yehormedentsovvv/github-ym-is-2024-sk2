@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/bin/Debug/net7.0/program000b-generator
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/bin/Debug/net7.0/program000b-generator.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/bin/Debug/net7.0/program000b-generator.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/bin/Debug/net7.0/program000b-generator.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/bin/Debug/net7.0/program000b-generator.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/refint/program000b-generator.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/program000b-generator.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program000b-generator/obj/Debug/net7.0/ref/program000b-generator.dll
