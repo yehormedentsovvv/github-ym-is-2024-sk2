@@ -1,10 +1,12 @@
-﻿string again = "a";
+﻿using System.Security.Authentication.ExtendedProtection;
+
+string again = "a";
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("***********************************************");
             Console.WriteLine("******* Generátor pseudonáhodných čísel *******");
             Console.WriteLine("***********************************************");
-            Console.WriteLine("**************** Yehor Medentsovv ******************");
+            Console.WriteLine("**************** Yehor Medentsov ******************");
             Console.WriteLine("***********************************************\n\n");
             Console.WriteLine();
 
@@ -32,45 +34,52 @@
             Console.WriteLine("Počet čísel: {0}; dolní mez: {1}; horní mez: {2}", n, dm, hm);
             Console.WriteLine("====================\n\n");
 
-            //deklarace pole
+            // deklarace pole
+            int[] myArray = new int[n];
 
-            int[]myArray = new int [n];
-
-            //priprava pro generovani nahodnych cisel
-
+            // příprava pro generování náhodných čísel
             Random randomNumber = new Random();
 
-            Console.WriteLine("Náhodná čísla: ");
-            int check = 0;
-                int kladna = 0;
-                int zaporna = 0;
-                int nulova = 0;
-
-            for(int i = 0; i < n; i++)
-            {
-         
-                check = randomNumber.Next(dm, hm + 1);
-                if(check>0)
-                {
-                    myArray[i] = check;
-                    kladna++;
-
-                }else if(check < 0)
-                {
-                    myArray[i] = check;
-                    zaporna++;
-                }else if(check == 0)
-                {
-                    myArray[i] = check;
-                    nulova++;
-                }
-        
-            Console.WriteLine("{0}; ", myArray[i]);
-            }
-             Console.WriteLine("zapornych : {0} ", zaporna);
-             Console.WriteLine("kladnych -  {0}", kladna);
-             Console.WriteLine("nuly -  {0}", nulova);
+            int kladna = 0;
+            int zaporna = 0;
+            int nuly = 0;
+            int suda = 0;
+            int licha = 0;    
             
+            Console.WriteLine("Náhodná čísla: ");
+            for(int i=0; i<n; i++) {
+                myArray[i] = randomNumber.Next(dm, hm+1);
+                Console.Write("{0}; ", myArray[i]);
+
+                // if(myArray[i]>0)
+                //     kladna++;
+                // if(myArray[i]<0)
+                //     zaporna++;
+                // if(myArray[i]==0)
+                //     nuly++;
+
+                if(myArray[i]>0)
+                    kladna++;
+                else if(myArray[i]<0)
+                    zaporna++;
+                else
+                    nuly++;
+
+                if(myArray[i] % 2 == 0)
+                  suda++;
+                else
+                  licha++;      
+
+            }
+            
+            Console.WriteLine("\n\nPočet kladných čísel: {0}", kladna);
+            Console.WriteLine("Počet záporných čísel: {0}", zaporna);
+            Console.WriteLine("Počet nul: {0}", nuly);
+
+            Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);
+            Console.WriteLine("Počet lichých čísel: {0}", licha);
+
+
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
