@@ -74,7 +74,7 @@ string again = "a";
                     width = width - 2;
                     Console.WriteLine();
                 }
-            }2
+            }
             else if(choice == 3)
             {
                 for (int i = 0; i <= mid; i++)
