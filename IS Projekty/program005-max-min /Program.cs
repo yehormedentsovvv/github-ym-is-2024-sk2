@@ -9,7 +9,7 @@ string again = "a";
             Console.WriteLine("***********************************************\n\n");
             Console.WriteLine();
 
-            
+
             Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
             int n;
             while(!int.TryParse(Console.ReadLine(), out n)) {
