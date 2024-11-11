@@ -36,6 +36,7 @@ string again = "a";
             // deklarace pole
             int[] myArray = new int[n];
 
+
             // příprava pro generování náhodných čísel
             Random randomNumber = new Random();
 
@@ -48,8 +49,8 @@ string again = "a";
             }
             
             int max = myArray[0];
-            int posMax = 0;
-            int posMin = 0;
+            int countMax = 0;
+            int countMin = 0;
             int min = myArray[0];
 
             for (int i = 1; i < n; i++)
@@ -57,21 +58,57 @@ string again = "a";
                 if (max < myArray[i])
                 {
                     max = myArray[i];
-                    posMax = i;
                 }
                 if (min > myArray[i])
                 {
                     min = myArray[i];
-                    posMin = i;
                 }
             }
+            for (int i = 0; i < n; i++)
+            {
+                if(max == myArray[i])
+                {
+                    countMax++;
+                }
+                else if(min == myArray[i])
+                {
+                    countMin++;
+                }
+            }
+            int[] myArrayIndexMax = new int[countMax];
+            int[] myArrayIndexMin = new int[countMin];
 
-            Console.Write("\n\n\n max - {0}; ", max);
-            Console.Write("\n\n\n min - {0}; ", min);
-            Console.Write("\n\n\n indexMax - {0}; ", posMax);
-            Console.Write("\n\n\n indexMin - {0}; ", posMin);
+            int j = 0;
+            int s = 0;
+            for (int i = 0; i < n; i++)
+            {
+                if(max == myArray[i])
+                {
+                    myArrayIndexMax[j] = i;
+                    j++;
+                }
+                else if(min == myArray[i])
+                {
+                    myArrayIndexMin[s] = i;
+                    s++;
+                }
+                
+            }
 
-
+            Console.Write("\n\n\n Max: {0}; ", max);
+            Console.Write("\n\n\n Min: {0}; ", min);
+            Console.Write("\n\n\n Počet maximálních hodnot: {0};\n\n\n", countMax);
+            Console.Write(" Pozice všech maximálních prvků : ");
+            for(int i = 0; i < countMax; i++) 
+            {
+                Console.Write("{0}; ", myArrayIndexMax[i]);
+            }
+            Console.Write("\n\n\n Počet minimálních hodnot: {0};\n\n\n", countMin);
+            Console.Write(" Pozice všech minimálních prvků : ");
+            for(int i = 0; i < countMin; i++) 
+            {
+                Console.Write("{0}; ", myArrayIndexMin[i]);
+            }
 
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");
