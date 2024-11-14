@@ -1,5 +1,6 @@
 ﻿
-﻿using System.Security.Authentication.ExtendedProtection;
+using System.Diagnostics;
+using System.Security.Authentication.ExtendedProtection;
 
 string again = "a";
         while(again == "a") {
@@ -45,6 +46,22 @@ string again = "a";
 
             for(int i=0; i<n; i++) {
                 myArray[i] = randomNumber.Next(dm, hm+1);
+                Console.Write("{0}; ", myArray[i]);
+            }
+
+
+            for (int i = 0; i < n / 2; i++)
+            {
+                int tmp = myArray[i];
+                myArray[i] = myArray[n - i - 1];
+                myArray[n - i - 1] = tmp;
+            }
+
+
+            Console.Write("\n");
+            Console.WriteLine("Reverze pole: ");
+            for(int i=0; i<n; i++) 
+            {
                 Console.Write("{0}; ", myArray[i]);
             }
             
