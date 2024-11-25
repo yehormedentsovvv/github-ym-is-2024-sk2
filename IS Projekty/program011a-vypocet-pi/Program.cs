@@ -34,17 +34,28 @@ class Program {
                piCtvrt = piCtvrt + znamenko * 1 / i;
                if(znamenko == 1)
                {
-                 Console.Write("\nZlomek: +1/{0}; aktuální hodnota PI = {1}", i, piCtvrt * 4);
+                 //Console.Write("\nZlomek: +1/{0}; aktuální hodnota PI = {1}", i, piCtvrt * 4);
                }
                else
                {
-                 Console.Write("\nZlomek: -1/{0}; aktuální hodnota PI = {1}", i, piCtvrt * 4);
+                 //Console.Write("\nZlomek: -1/{0}; aktuální hodnota PI = {1}", i, piCtvrt * 4);
                }
             }
 
             double pi = 4 * piCtvrt;
             Console.Write("\nPi: {0}; ", pi);
             Console.Write("\nPi: {0:f4}; ", pi);
+
+            double logaritmus = 1;
+            znamenko = 1;
+            i = 1;
+            while((1/i) >= presnost)
+            {
+               i++;
+               znamenko = -znamenko;
+               logaritmus = logaritmus + znamenko * 1 / i;
+            }
+            Console.Write("\nLn2: {0}; ", logaritmus);
 
             Console.Write("\n\n"); 
 
@@ -53,6 +64,4 @@ class Program {
             again = Console.ReadLine();
         }
     }   
-
-
 }
