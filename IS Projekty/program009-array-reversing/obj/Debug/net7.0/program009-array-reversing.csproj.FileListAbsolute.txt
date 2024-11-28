@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/bin/Debug/net7.0/program009-array-reversing
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/bin/Debug/net7.0/program009-array-reversing.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/bin/Debug/net7.0/program009-array-reversing.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/bin/Debug/net7.0/program009-array-reversing.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/bin/Debug/net7.0/program009-array-reversing.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/refint/program009-array-reversing.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/program009-array-reversing.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program009-array-reversing/obj/Debug/net7.0/ref/program009-array-reversing.dll

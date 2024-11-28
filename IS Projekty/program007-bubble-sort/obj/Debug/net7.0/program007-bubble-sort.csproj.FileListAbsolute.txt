@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/bin/Debug/net7.0/program007-bubble-sort
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/bin/Debug/net7.0/program007-bubble-sort.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/bin/Debug/net7.0/program007-bubble-sort.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/bin/Debug/net7.0/program007-bubble-sort.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/bin/Debug/net7.0/program007-bubble-sort.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/refint/program007-bubble-sort.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/program007-bubble-sort.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program007-bubble-sort/obj/Debug/net7.0/ref/program007-bubble-sort.dll

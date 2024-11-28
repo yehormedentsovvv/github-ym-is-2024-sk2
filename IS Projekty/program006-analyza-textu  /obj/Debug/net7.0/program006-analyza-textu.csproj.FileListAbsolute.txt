@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /bin/Debug/net7.0/program006-analyza-textu
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /bin/Debug/net7.0/program006-analyza-textu.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /bin/Debug/net7.0/program006-analyza-textu.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /bin/Debug/net7.0/program006-analyza-textu.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /bin/Debug/net7.0/program006-analyza-textu.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/refint/program006-analyza-textu.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/program006-analyza-textu.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/program006-analyza-textu  /obj/Debug/net7.0/ref/program006-analyza-textu.dll

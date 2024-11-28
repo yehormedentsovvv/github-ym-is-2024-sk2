@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/bin/Debug/net7.0/001-prvni-program-vypis-rady
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/bin/Debug/net7.0/001-prvni-program-vypis-rady.deps.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/bin/Debug/net7.0/001-prvni-program-vypis-rady.runtimeconfig.json
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/bin/Debug/net7.0/001-prvni-program-vypis-rady.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/bin/Debug/net7.0/001-prvni-program-vypis-rady.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.AssemblyInfo.cs
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/refint/001-prvni-program-vypis-rady.dll
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.pdb
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/001-prvni-program-vypis-rady.genruntimeconfig.cache
+/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/001-prvni-program-vypis-rady/obj/Debug/net7.0/ref/001-prvni-program-vypis-rady.dll
