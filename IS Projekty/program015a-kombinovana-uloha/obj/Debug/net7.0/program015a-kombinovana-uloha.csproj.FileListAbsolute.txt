@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/bin/Debug/net7.0/program015a-kombinovana-uloha
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/bin/Debug/net7.0/program015a-kombinovana-uloha.deps.json
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/bin/Debug/net7.0/program015a-kombinovana-uloha.runtimeconfig.json
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/bin/Debug/net7.0/program015a-kombinovana-uloha.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/bin/Debug/net7.0/program015a-kombinovana-uloha.pdb
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.AssemblyInfo.cs
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/refint/program015a-kombinovana-uloha.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.pdb
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/program015a-kombinovana-uloha.genruntimeconfig.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program015a-kombinovana-uloha/obj/Debug/net7.0/ref/program015a-kombinovana-uloha.dll
