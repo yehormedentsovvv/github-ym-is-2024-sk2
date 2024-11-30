@@ -1,0 +1,15 @@
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/bin/Debug/net7.0/program014a-10to2
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/bin/Debug/net7.0/program014a-10to2.deps.json
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/bin/Debug/net7.0/program014a-10to2.runtimeconfig.json
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/bin/Debug/net7.0/program014a-10to2.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/bin/Debug/net7.0/program014a-10to2.pdb
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.csproj.AssemblyReference.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.AssemblyInfoInputs.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.AssemblyInfo.cs
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.csproj.CoreCompileInputs.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/refint/program014a-10to2.dll
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.pdb
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/program014a-10to2.genruntimeconfig.cache
+/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/program014a-10to2/obj/Debug/net7.0/ref/program014a-10to2.dll
