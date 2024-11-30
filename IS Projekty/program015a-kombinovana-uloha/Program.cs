@@ -4,7 +4,7 @@ string again = "a";
         while(again == "a") {
             //Console.Clear();
             Console.WriteLine("***********************************************");
-            Console.WriteLine("******* Generátor pseudonáhodných čísel *******");
+            Console.WriteLine("******* Kombinovaná úloha *******");
             Console.WriteLine("***********************************************");
             Console.WriteLine("**************** Yehor Medentsov ******************");
             Console.WriteLine("***********************************************\n\n");
@@ -192,10 +192,41 @@ string again = "a";
                     Console.Write("{0}",myArrayy[j3]);
                 }
                 Console.WriteLine("\n\nObrazec – výška = medián {0}; šířka = třetí největší číslo {1}", mediana, third);
-                
 
+                for (int i = 0; i < mediana / 2 - 1; i++) 
+                {
+                    for (int s1 = 0; s1 < 4; s1++)  
+                    {
+                        Console.Write("   ");
+                    }
+                    for (int j1 = 0; j1 < 3; j1++) 
+                    {
+                        Console.Write("* ");
+                    }
+                    Console.WriteLine();
+                }
 
+                for (int i = 0; i < 2; i++) 
+                {
+                    for (int j2 = 0; j2 < third; j2++) 
+                    {
+                        Console.Write("* ");
+                    }
+                Console.WriteLine();
+                }
 
+                for (int i = 0; i < mediana / 2 - 1; i++) 
+                {
+                    for (int s3 = 0; s3 < 4; s3++)  
+                    {
+                        Console.Write("   ");
+                    }
+                for (int j4 = 0; j4 < 3; j4++) 
+                    {
+                        Console.Write("* ");
+                    }
+                    Console.WriteLine();
+                }
             
             // Opakování programu
             Console.WriteLine("\n\nPro opakování programu stiskněte klávesu a");

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/domaci_kresleni.csproj",
+      "projectUniqueName": "/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/domaci_kresleni.csproj",
       "projectName": "domaci_kresleni",
-      "projectPath": "/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/domaci_kresleni.csproj",
+      "projectPath": "/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/domaci_kresleni.csproj",
       "packagesPath": "/Users/egormedentsov/.nuget/packages/",
-      "outputPath": "/Users/egormedentsov/Projects/IS2024/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/obj/",
+      "outputPath": "/Users/egormedentsov/Projects/fakeUseIT/github-ym-is-2024-sk2/IS Projekty/domaci_kresleni/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/egormedentsov/.nuget/NuGet/NuGet.Config"
